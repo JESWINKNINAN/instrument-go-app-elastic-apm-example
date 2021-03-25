@@ -1,1 +1,1 @@
-# sample-helm-repo-on-github
+# instrument-go-app-elastic-apm-example
